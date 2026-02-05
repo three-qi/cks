@@ -1,0 +1,55 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:caverns_and_chasms:living_flesh",
+    "item:caverns_and_chasms:sanguine_leggings{Damage:0}",
+    {
+      "type": "item",
+      "id": "endrem:wither_eye",
+      "nbt": "{Damage:0}",
+      "amount": 4
+    },
+    "item:apotheosis:mythic_material",
+    "item:ends_delight:dragon_tooth_knife{Damage:0}",
+    {
+      "type": "item",
+      "id": "apotheosis:epic_material",
+      "amount": 64
+    },
+    "item:apotheosis:gem_fused_slate",
+    "item:apotheosis:sigil_of_rebirth",
+    "item:apotheosis:reforging_table",
+    "item:spartanweaponry:iron_heavy_crossbow{Damage:0}",
+    "item:apotheosis:gem{affix_data:{rarity:\"apotheosis:ancient\"},gem:\"apotheosis:the_nether/blood_lord\"}",
+    "item:apotheosis:gem{affix_data:{rarity:\"apotheosis:epic\"},gem:\"apotheosis:the_nether/blood_lord\"}",
+    "item:apotheosis:gem{affix_data:{rarity:\"apotheosis:epic\"},gem:\"apotheosis:overworld/royalty\"}",
+    "item:apotheosis:gem{affix_data:{rarity:\"apotheosis:ancient\"},gem:\"apotheosis:core/warlord\"}",
+    "item:apotheosis:gem{affix_data:{rarity:\"apotheosis:epic\"},gem:\"apotheosis:core/warlord\"}",
+    "item:spartanweaponry:netherite_heavy_crossbow{Damage:0}",
+    "item:spartanweaponry:iron_longbow{Damage:0}",
+    "item:spartanweaponry:silver_longbow{Damage:0}",
+    "item:spartanweaponry:electrum_heavy_crossbow{Damage:0}",
+    "item:spartanweaponry:silver_heavy_crossbow{Damage:0}",
+    "item:spartanweaponry:tin_longbow{Damage:0}",
+    "item:spartanweaponry:golden_heavy_crossbow{Damage:0}",
+    "item:spartanweaponry:copper_heavy_crossbow{Damage:0}",
+    "item:archexpsquared:lead_bow{Damage:0}",
+    "item:minecraft:saddle",
+    {
+      "type": "item",
+      "id": "botania:light_gray_petal",
+      "amount": 4
+    },
+    "item:botania:light_gray_double_flower"
+  ],
+  "craft_history": [
+    "botania:petal_light_gray_double"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

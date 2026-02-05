@@ -1,0 +1,23 @@
++----------------------+-------+---------+-----------+
+| Material List for placement 'Unnamed'              |
++----------------------+-------+---------+-----------+
+| Item                 | Total | Missing | Available |
++----------------------+-------+---------+-----------+
+| Hopper               |   179 |     179 |         0 |
+| Redstone Dust        |    77 |      77 |        31 |
+| Deepslate Bricks     |    74 |      74 |         0 |
+| Slime Block          |    28 |      28 |        35 |
+| Furnace              |    25 |      25 |        19 |
+| Obsidian             |    11 |      11 |         0 |
+| Chest                |     6 |       6 |         0 |
+| Sticky Piston        |     4 |       4 |         0 |
+| Block of Redstone    |     3 |       3 |         0 |
+| Observer             |     2 |       2 |         1 |
+| Redstone Comparator  |     2 |       2 |         0 |
+| Redstone Torch       |     2 |       2 |         0 |
+| Deepslate Brick Slab |     1 |       1 |         0 |
+| Lever                |     1 |       1 |        12 |
+| Redstone Repeater    |     1 |       1 |         2 |
++----------------------+-------+---------+-----------+
+| Item                 | Total | Missing | Available |
++----------------------+-------+---------+-----------+

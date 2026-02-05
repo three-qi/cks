@@ -1,0 +1,16 @@
+filename = 'betterbaneofarthropods-2.0.1-forge-1.20.1.jar'
+name = 'Better Bane Of Arthropods'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8abcb73f22ea6d1511b308bd1500f090af7fe235'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6988926
+project-id = 1166894

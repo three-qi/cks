@@ -1,0 +1,16 @@
+filename = 'dungeons-and-taverns-ancient-city-overhaul-1 [Forge].jar'
+name = 'DnT Ancient City Overhaul'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'c5b4170f6f40dde1c5c7d161f606bccbe3dd2871'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4785961
+project-id = 920418

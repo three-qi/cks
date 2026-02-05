@@ -1,0 +1,9 @@
+{
+  "last_directories": {
+    "schematic_load": "/Users/andre/Library/Application Support/PrismLauncher/instances/craft 1.21/.minecraft/schematics",
+    "schematic_save": "/Users/andre/Library/Application Support/PrismLauncher/instances/craft 1.21/.minecraft/schematics",
+    "schematic_manager": "/Users/andre/Library/Application Support/PrismLauncher/instances/craft 1.21/.minecraft/schematics/farms"
+  },
+  "create_placement_on_load": true,
+  "config_gui_tab": "GENERIC"
+}

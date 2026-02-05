@@ -1,0 +1,16 @@
+filename = 'restApi-0.10.1-1.20.1-forge.jar'
+name = 'RestApi'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'c58c467aacb70403c44a880a8b425ae4d7079775'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5041496
+project-id = 917700

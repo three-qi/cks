@@ -1,0 +1,12 @@
+
+
+
+
+profile Saved activate HOT1
+	HOT1
+		"minecraft:mace"
+	HOT3
+		"minecraft:chipped_anvil"
+	HOT5
+		"minecraft:enchanted_book" -> [ "minecraft:stored_enchantments"("{levels:{\"minecraft:density\":5}}") ]
+

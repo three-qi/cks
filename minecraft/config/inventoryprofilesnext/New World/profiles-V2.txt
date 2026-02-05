@@ -1,0 +1,22 @@
+
+
+
+
+profile Saved activate HOT6
+	HOT1
+		"minecraft:emerald_block"
+	HOT2
+		"minecraft:trident"
+	HOT3
+		"minecraft:mace"
+	HOT4
+		"minecraft:mud_bricks"
+	HOT5
+		"minecraft:mud_brick_stairs"
+	HOT7
+		"minecraft:beacon"
+	HOT8
+		"minecraft:wooden_axe"
+	HOT9
+		"minecraft:pink_terracotta"
+

@@ -1,0 +1,32 @@
+{
+    "ModSettings": {
+        "always_include_hotbar": true,
+        "highlight_foused_items_color": "#29AAFF3F",
+        "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
+    "LockedSlotsSettings": {
+        "locked_slots_foreground_style": 4
+    },
+    "AutoRefillSettings": {
+        "auto_refill_prefer_smaller_stacks": true,
+        "refill_armor": {
+            "value": false
+        },
+        "autorefill_blacklist": "minecraft:splash_potion",
+        "auto_refill_match_custom_name": false,
+        "auto_refill_match_nbt": false,
+        "allow_break_for_non_enchanted": {
+            "value": true
+        },
+        "tool_max_durability_threshold": 273,
+        "visual_durability_notification": {
+            "value": false
+        },
+        "audio_replace_failed_notification": {
+            "value": false
+        }
+    }
+}

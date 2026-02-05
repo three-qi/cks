@@ -1,0 +1,16 @@
+filename = 'molten_metals-1.20.1-0.1.4-forge.jar'
+name = 'Create: Molten Metals'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd5c042d0a56ec0a4c0e238215cbdf13ef6903f80'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5370100
+project-id = 1010908

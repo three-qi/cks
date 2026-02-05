@@ -1,0 +1,16 @@
+filename = 'blueflame-1.20.0-1.0.2.jar'
+name = 'Blue Flame Burning'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '25309b5b929689bc08552e540bc4b675f2e67304'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4574356
+project-id = 656551

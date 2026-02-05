@@ -1,0 +1,16 @@
+filename = 'rosegoldequipment-1.6.1.jar'
+name = 'Rose Gold Equipment'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c72a07b85123a4ec6782c446505bfd3706bca141'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6796227
+project-id = 866610

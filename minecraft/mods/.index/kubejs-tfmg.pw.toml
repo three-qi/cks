@@ -1,0 +1,16 @@
+filename = 'tfmgjs-1.20.1-1.3.2.jar'
+name = 'KubeJS TFMG'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9ebc1dac5f023ed0bb14980251a4b230f7e7284c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7024054
+project-id = 1151941

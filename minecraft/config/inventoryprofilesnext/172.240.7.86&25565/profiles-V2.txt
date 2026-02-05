@@ -1,0 +1,34 @@
+
+
+
+
+profile Saved activate HOT3
+	HOT1
+		"minecraft:netherite_sword" -> [ "minecraft:enchantments"("[\"minecraft:looting\",\"minecraft:sharpness\",\"minecraft:mending\",\"minecraft:knockback\",\"minecraft:fire_aspect\",\"minecraft:sweeping_edge\"]"), "minecraft:repair_cost"("15") ]
+	HOT2
+		"minecraft:bow" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:power\",\"minecraft:punch\",\"minecraft:unbreaking\"]"), "minecraft:repair_cost"("7") ]
+	HOT3
+		"minecraft:netherite_pickaxe" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:efficiency\",\"minecraft:silk_touch\",\"minecraft:unbreaking\"]") ]
+	HOT4
+		"minecraft:trident" -> [ "minecraft:repair_cost"("7"), "minecraft:enchantments"("[\"minecraft:riptide\",\"minecraft:mending\",\"minecraft:unbreaking\"]") ]
+	HOT5
+		"minecraft:enchanted_golden_apple"
+	HOT6
+		"minecraft:netherrack"
+	HOT7
+		"minecraft:firework_rocket"
+	HOT8
+		"minecraft:diamond_axe" -> [ "minecraft:enchantments"("[\"minecraft:efficiency\",\"minecraft:fortune\"]") ]
+	HOT9
+		"minecraft:cooked_porkchop"
+	OFFHAND
+		"minecraft:elytra" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:unbreaking\"]"), "minecraft:repair_cost"("7") ]
+	HEAD
+		"minecraft:netherite_helmet" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:protection\",\"minecraft:aqua_affinity\",\"minecraft:respiration\",\"minecraft:unbreaking\"]"), "minecraft:repair_cost"("3"), "minecraft:trim"("{material:\"minecraft:quartz\",pattern:\"minecraft:flow\"}") ]
+	CHEST
+		"minecraft:netherite_chestplate" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:protection\",\"minecraft:thorns\",\"minecraft:unbreaking\"]"), "minecraft:trim"("{material:\"minecraft:quartz\",pattern:\"minecraft:flow\"}"), "minecraft:repair_cost"("1") ]
+	LEGS
+		"minecraft:netherite_leggings" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:protection\",\"minecraft:thorns\",\"minecraft:unbreaking\"]"), "minecraft:trim"("{material:\"minecraft:quartz\",pattern:\"minecraft:flow\"}"), "minecraft:repair_cost"("7") ]
+	FEET
+		"minecraft:netherite_boots" -> [ "minecraft:enchantments"("[\"minecraft:mending\",\"minecraft:protection\",\"minecraft:soul_speed\",\"minecraft:unbreaking\"]"), "minecraft:repair_cost"("3") ]
+

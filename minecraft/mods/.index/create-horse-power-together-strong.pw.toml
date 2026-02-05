@@ -1,0 +1,16 @@
+filename = 'create_hp_ts-1.0.1.jar'
+name = 'Create Horse Power - Together Strong'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5384c662064328c9fe028c9165351a7a89d01c96'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6772985
+project-id = 1278383

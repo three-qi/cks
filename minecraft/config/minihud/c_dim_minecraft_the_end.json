@@ -1,0 +1,43 @@
+{
+  "data_storage": {
+    "distance_pos": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "seed": -3530917501381886670,
+    "spawn_chunk_radius": 2
+  },
+  "shapes": {
+    "shapes": [
+      {
+        "type": "can_spawn_sphere",
+        "color": 1621114960,
+        "enabled": true,
+        "display_name": "Can Spawn Sphere ( \u003e 24)",
+        "render_type": "outer_edge",
+        "layers": {
+          "mode": "ALL",
+          "axis": "y",
+          "layer_single": 0,
+          "layer_above": 0,
+          "layer_below": 0,
+          "layer_range_min": 0,
+          "layer_range_max": 0,
+          "hotkey_range_min": false,
+          "hotkey_range_max": false
+        },
+        "snap": "center",
+        "combine_quads": false,
+        "center": [
+          520.5,
+          1.0,
+          -16.5
+        ],
+        "main_axis": "UP",
+        "radius": 24.0,
+        "margin": 0.0
+      }
+    ]
+  }
+}

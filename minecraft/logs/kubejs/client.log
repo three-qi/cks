@@ -1,0 +1,17 @@
+[15:07:41] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[15:07:41] [INIT] Loaded plugins:
+[15:07:41] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[15:07:41] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[15:07:41] [INIT] - dev.wolfieboy09.tfmgjs.TFMGJSPlugin
+[15:07:41] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[15:07:41] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[15:07:41] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[15:07:41] [INFO] example.js#5: Hello, World! (Loaded client scripts)
+[15:07:41] [INFO] Loaded script client_scripts:example.js in 0.001 s
+[15:07:41] [INFO] Loaded 1/1 KubeJS client scripts in 0.013 s with 0 errors and 0 warnings
+[15:07:46] [INFO] Client resource reload complete!
+[15:08:48] [INFO] Client resource reload complete!
+[15:09:08] [INFO] Client resource reload complete!
+[15:09:13] [INFO] Client resource reload complete!
+[15:10:49] [INFO] Client resource reload complete!
+[15:11:26] [INFO] Client resource reload complete!

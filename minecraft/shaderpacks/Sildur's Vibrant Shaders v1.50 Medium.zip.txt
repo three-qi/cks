@@ -1,0 +1,5 @@
+#Mon Jun 24 19:59:07 PDT 2024
+emissive_B=0.2
+emissive_G=0.5
+emissive_R=1.1
+minlight=0.006

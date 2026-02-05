@@ -1,0 +1,28 @@
++---------------------+-------+---------+----------------+
+| Material List for schematic 'Unnamed' (1 of 1 regions) |
++---------------------+-------+---------+----------------+
+| Item                | Total | Missing |
++---------------------+-------+---------+
+| Warped Wart Block   |   398 |     398 |
+| Powered Rail        |   210 |     210 |
+| Observer            |   149 |     149 |
+| Sticky Piston       |    73 |      73 |
+| Deepslate Tile Wall |    38 |      38 |
+| Slime Block         |    35 |      35 |
+| Hopper              |     7 |       7 |
+| Piston              |     5 |       5 |
+| Chest               |     4 |       4 |
+| Obsidian            |     4 |       4 |
+| Redstone            |     4 |       4 |
+| Activator Rail      |     2 |       2 |
+| Block of Redstone   |     2 |       2 |
+| Dropper             |     2 |       2 |
+| Redstone Comparator |     2 |       2 |
+| White Concrete      |     2 |       2 |
+| Dispenser           |     1 |       1 |
+| Lever               |     1 |       1 |
+| Oak Pressure Plate  |     1 |       1 |
+| Target              |     1 |       1 |
++---------------------+-------+---------+
+| Item                | Total | Missing |
++---------------------+-------+---------+

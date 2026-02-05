@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "d7e1874a714f46e08d2b0a5fa86311eb"
+	name: "3Qi#d7e1874a"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,22 @@
+
+
+
+
+profile Saved activate HOT1
+	HOT1
+		"minecraft:netherite_sword"
+	HOT3
+		"minecraft:blackstone"
+	HOT4
+		"minecraft:dark_oak_leaves"
+	HOT5
+		"minecraft:polished_blackstone_brick_slab"
+	HOT6
+		"minecraft:azalea"
+	HOT7
+		"minecraft:water_bucket"
+	HOT8
+		"minecraft:wooden_axe"
+	HOT9
+		"minecraft:trident"
+

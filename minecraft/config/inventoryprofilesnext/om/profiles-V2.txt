@@ -1,0 +1,48 @@
+
+
+
+
+profile Saved activate HOT9
+	HOT1
+		"minecraft:wooden_axe"
+	HOT2
+		"minecraft:elytra"
+	HOT3
+		"minecraft:firework_rocket"
+	HOT4
+		"minecraft:waxed_exposed_cut_copper"
+	HOT5
+		"minecraft:smooth_quartz_stairs"
+	HOT6
+		"minecraft:gravel"
+	HOT7
+		"minecraft:chest"
+	HOT8
+		"minecraft:cyan_wool"
+	CHEST
+		"minecraft:elytra"
+	FEET
+		"minecraft:netherite_boots" -> [ "minecraft:enchantments"("[\"minecraft:depth_strider\"]") ]
+
+profile Saved activate HOT9
+	HOT1
+		"minecraft:wooden_axe"
+	HOT2
+		"minecraft:elytra"
+	HOT3
+		"minecraft:firework_rocket"
+	HOT4
+		"minecraft:waxed_exposed_cut_copper"
+	HOT5
+		"minecraft:smooth_quartz_stairs"
+	HOT7
+		"minecraft:warped_slab"
+	HOT8
+		"minecraft:warped_stairs"
+	HOT9
+		"minecraft:water_bucket"
+	CHEST
+		"minecraft:elytra"
+	FEET
+		"minecraft:netherite_boots" -> [ "minecraft:enchantments"("[\"minecraft:depth_strider\"]") ]
+

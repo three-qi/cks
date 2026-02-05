@@ -1,0 +1,2 @@
+shipwreck;89;-46
+buried_treasure;77;-44

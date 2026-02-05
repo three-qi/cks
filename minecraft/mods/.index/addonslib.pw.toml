@@ -1,0 +1,16 @@
+filename = 'addonslib-1.20.1-1.4.jar'
+name = 'AddonsLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '03ee970a1d139f7cbc9ddeae0e864bf567ea6203'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6393071
+project-id = 1090999

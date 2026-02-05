@@ -1,0 +1,16 @@
+filename = 'create_armor_trims-1.20.1-2.0.1.jar'
+name = 'Create: Armor Trim'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd47ef027154e5dcaf1ea8bea3fb70e8824c01f60'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5359591
+project-id = 1020165

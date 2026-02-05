@@ -1,0 +1,16 @@
+filename = 'create_hypertube-0.2.6-hotfix-FORGE.jar'
+name = 'Create: Hypertubes'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '83c1728344eef7669b933e36a42a1d0e4f529ea8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7086642
+project-id = 1281336

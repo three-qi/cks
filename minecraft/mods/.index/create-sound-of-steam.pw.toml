@@ -1,0 +1,16 @@
+filename = 'pipeorgans-0.7.3+1.20.1.jar'
+name = 'Create: Sound of Steam'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '2af85f219a3e528b7e2f0fb1afd7e4df711658b2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6719262
+project-id = 1196142

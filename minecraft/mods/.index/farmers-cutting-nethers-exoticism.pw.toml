@@ -1,0 +1,16 @@
+filename = 'farmers-cutting-nethers-exoticism-1.20.1-1.0.jar'
+name = "Farmer's Cutting: Nether's Exoticism"
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd46f377ad690206a1b7d3d56873ad29739943dd5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5930775
+project-id = 1129797

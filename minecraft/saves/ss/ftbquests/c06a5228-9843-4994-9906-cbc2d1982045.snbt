@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "c06a5228984349949906cbc2d1982045"
+	name: "Maplewood_Stable#c06a5228"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

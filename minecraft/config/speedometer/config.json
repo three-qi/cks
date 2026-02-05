@@ -1,0 +1,18 @@
+{
+    "xPosition": "W-3",
+    "debug": false,
+    "color": {
+        "r": 16,
+        "b": 158,
+        "g": 146
+    },
+    "overrideColor": false,
+    "useKnot": false,
+    "yPosition": "H-13",
+    "showVisualSpeedType": false,
+    "imageSize": 19,
+    "showSpeedType": true,
+    "visualSpeedometer": false,
+    "version": 4,
+    "speed": "BlockPS"
+}

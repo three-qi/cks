@@ -1,0 +1,184 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "/Users/andre/Library/Application Support/PrismLauncher/instances/craft 1.21/.minecraft/schematics/Wet Flight (won\u0027t freeze).litematic",
+        "name": "Unnamed",
+        "origin": [
+          -367,
+          123,
+          -20
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 12648480,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                -1,
+                1,
+                1
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "/Users/andre/Library/Application Support/PrismLauncher/instances/craft 1.21/.minecraft/schematics/New_4gt_floor_placer.litematic",
+        "name": "4gt",
+        "origin": [
+          -695,
+          120,
+          408
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16738304,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "4gt extension",
+            "placement": {
+              "pos": [
+                0,
+                4,
+                1
+              ],
+              "name": "4gt extension",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          },
+          {
+            "name": "Logic",
+            "placement": {
+              "pos": [
+                27,
+                0,
+                4
+              ],
+              "name": "Logic",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      },
+      {
+        "schematic": "/Users/andre/Library/Application Support/PrismLauncher/instances/craft 1.21/.minecraft/schematics/the floor maker aligned.litematic",
+        "name": "Unnamed",
+        "origin": [
+          -674,
+          116,
+          359
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 10927575,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "Unnamed",
+            "placement": {
+              "pos": [
+                1,
+                3,
+                0
+              ],
+              "name": "Unnamed",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 2,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "y",
+    "layer_single": 91,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "trvthnvke",
+    "current": "",
+    "boxes": [
+      {
+        "pos1": [
+          -524,
+          124,
+          137
+        ],
+        "pos2": [
+          -498,
+          121,
+          -35
+        ],
+        "name": ""
+      }
+    ],
+    "origin": [
+      -1897,
+      180,
+      1086
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}
